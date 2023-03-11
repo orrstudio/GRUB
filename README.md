@@ -1,0 +1,2 @@
+# GRUB
+GRUB for BIOS MBR and EFI GPT
